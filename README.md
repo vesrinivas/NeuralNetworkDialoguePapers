@@ -1,2 +1,2 @@
-# NeuralNetworkDialoguePapers-
-Dialogue Papers using Neural Networks
+# NeuralNetworkDialoguePapers
+Collection of Dialogue Papers using Neural Networks
